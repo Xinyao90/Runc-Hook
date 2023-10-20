@@ -1,0 +1,3 @@
+From C code, World!
+
+Container has started successfully.

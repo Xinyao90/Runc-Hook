@@ -1,0 +1,17 @@
+/h00ks/scripts-hooks/createContainer/containerCreate.sh
+cgroup:[4026531835]
+ipc:[4026532501]
+mnt:[4026532499]
+net:[4026532503]
+pid:[4026532502]
+pid:[4026532502]
+time:[4026531834]
+time:[4026531834]
+user:[4026531837]
+uts:[4026532500]
+PID: 7
+PWD=/h00ks/bundle/rootfs
+TERM=xterm
+SHLVL=0
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+_=/usr/bin/env

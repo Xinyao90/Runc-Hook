@@ -1,0 +1,25 @@
+/h00ks/scripts-hooks/createRuntime/runtimeCreate.sh
+cgroup:[4026531835]
+ipc:[4026532419]
+mnt:[4026532417]
+net:[4026532421]
+pid:[4026532420]
+pid:[4026532420]
+time:[4026531834]
+time:[4026531834]
+user:[4026531837]
+uts:[4026532418]
+PID: 31
+SCRIPT_DIR=/h00ks/scripts-hooks
+HOSTNAME=715c8847e055
+CDIR=/h00ks
+PWD=/h00ks/bundle
+GOPT=
+HOME=/root
+BUNDLEDIR=/h00ks/bundle
+TERM=xterm
+SHLVL=0
+CNAME=c
+ADDCNF=/h00ks/config-add.json
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+_=/usr/bin/env
